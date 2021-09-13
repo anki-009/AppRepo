@@ -9,3 +9,5 @@
 /DemoApp/DemoMovies.BL/obj
 /DemoApp/DemoMovies.Commons/bin/Debug/netcoreapp3.1
 /DemoApp/DemoMovies.Commons/obj/Debug/netcoreapp3.1
+/DemoApp/DemoMovies.Commons/obj
+/DemoApp/DemoMovies.DL/obj
