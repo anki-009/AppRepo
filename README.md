@@ -3,6 +3,7 @@
 - Set DemoMovies.Api project as start up project.
 - Run project it will open following url : https://localhost:44397/swagger/index.html
 - Created Database "MoviesDb" and execute sql scripts.
+- Updated connections string in appsetting file for api project
 - Added swagger documentation  for apis
 - Added following apis :
   - Get Product categories
