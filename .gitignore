@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/DemoApp/DemoMovies.Api.Tests/bin/Debug/netcoreapp3.1
+/DemoApp/DemoMovies.Api.Tests/obj
+/DemoApp/DemoMovies.BL/bin/Debug/netcoreapp3.1
+/DemoApp/DemoMovies.BL/obj
+/DemoApp/DemoMovies.Commons/bin/Debug/netcoreapp3.1
+/DemoApp/DemoMovies.Commons/obj/Debug/netcoreapp3.1
