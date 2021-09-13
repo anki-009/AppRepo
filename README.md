@@ -1,9 +1,9 @@
 # AppRepo
-- I have added sql sql script for database.
+- I have added sql script for database.
 - Set DemoMovies.Api project as start up project.
-- Run project it will open following url : https://localhost:44397/swagger/index.html
-- Created Database "MoviesDb" and execute sql scripts.
+- Create Database "MoviesDb" and execute sql scripts.
 - Updated connections string in appsetting file for api project
+- Run project it will open following url : https://localhost:44397/swagger/index.html
 - Added swagger documentation  for apis
 - Added following apis :
   - Get Product categories
