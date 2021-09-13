@@ -2,6 +2,7 @@
 - I have added sql sql script for database.
 - Set DemoMovies.Api project as start up project.
 - Run project it will open following url : https://localhost:44397/swagger/index.html
+- Created Database "MoviesDb" and execute sql scripts.
 - Added swagger documentation  for apis
 - Added following apis :
   - Get Product categories
